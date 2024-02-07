@@ -1,0 +1,2 @@
+
+void interpret(char *code);
